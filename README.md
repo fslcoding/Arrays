@@ -26,7 +26,7 @@ type[] name = new type[size];
 
 A basic **_string_** array with a size of 10 looks like this:
 
-( A string array means that it stores only strings)
+( A string array means that it stores only strings )
 
 ```
 string[] StringArray = new string[10];
