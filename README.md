@@ -109,7 +109,7 @@ For these tasks, fork the code.
 + Print out the corresponding name
 + Use an if statement to check if the index is valid
 
-**_Level Two**
+**_Level Two_**
 + Make two arrays, one for fornames, and one for surnames.
 + Using a for loop, print out the forenames and surnames together.
 
